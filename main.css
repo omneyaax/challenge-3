@@ -1,0 +1,32 @@
+.card img{
+    width :90% !important;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.card {
+    margin: auto;
+    margin-top: 15%;
+    border-radius: 15px;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+h5
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+
+p 
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+    padding: 10px;
+}
